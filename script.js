@@ -48,7 +48,7 @@ const CONFIG = {
 
   // Optional: put your own song file at photos/song.mp3 and set this to
   // "photos/song.mp3" to play it instead of the built-in birthday chime.
-  songFile: "",
+  songFile: "photos/song.mp3",
 };
 
 /* ==========================================================
